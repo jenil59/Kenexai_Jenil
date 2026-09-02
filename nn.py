@@ -1,2 +1,3 @@
-print("new file")
-# new changes 1 again at 12:35
+from D1 import h as d
+
+print(d.fun())
