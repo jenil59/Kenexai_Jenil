@@ -1,0 +1,3 @@
+from D1 import h as d
+
+print(d.fun())
